@@ -1,0 +1,26 @@
+0. Funkce pro výpis a načtení n čísel do pole.
+1. Napiš funkci, která do všech prvků pole vloží číslo x.
+2. Napište funkci, která změní pole tak, že každé číslo v poli vynásobí číslem x. Číslo x je vstupním parametrem funkce.
+3. Napiš funkci, která vrátí průměr čísel v poli.
+4. Napiš funkci, která prohodí první a poslední prvek v poli.
+5. Napiš funkci, která vypíše pole opačně.
+6. Napište funkci, která do pole vloží čísla od 1 do n.
+7. Napište funkci, která do pole vloží čísla od n do 1.
+8. Napiš funkci, vezme číslo x a vyplní pole o n prvcích tak, že v každém políčku bude jeden násobek čísla x. Příklad: x= 4; pole: 0, 4, 8, 12, ...
+9. Napiš funkci, která vypíše každý prvek pole dvakrát za sebou. Př. pole 5, 4, 7, -9, 0  výstup: 5 5 4 4 7 7 -9 -9 0 0
+10. Napiš funkci, která vezme pole o n prvcích a číslo x. Vrátí zpátky, kolikrát se to číslo x v poli vyskytuje: pole: 5, 4, 2, -8, 45, 2, 8, 2 číslo x = 2 výstup: 3×
+11. Máme dvě pole celých čísel = vektory. Napište funkci, která vypíše součet těchto dvou vektorů (sčítá se po jednotlivých složkách). Př. pole1: 5, 4, 6 pole2: 1, 5, -9 výstup: 6, 9, -3
+12. Máme dvě pole o stejné délce n. Napište funkci, která vezme obě pole o stejné délce a zkopíruje první pole do druhého.
+13. Máme pole o n prvcích a celé číslo x. Napište funkci, která vezme tato data a vyplní pole tak, že do prvního políčka dá číslo x a do každého dalšího vždy číslo o 5 větší: Př: x = 2, pole: 2, 7, 12, 17, ...
+14. Máme dvě pole (vektory) o n prvcích. Napište funkci, která vezme tyto dva vektory  o n prvcích a vrátí jejich skalární součin. Př. a = 1, 0, 3  b = 2, -1, 0 Funkce vrací 1*2 + 0* (-1) + 3* 0 = 2
+15. Máme dvě pole celých čísel = vektory. Napište funkci, která vypíše rozdíl těchto dvou vektorů (odečítá se po jednotlivých složkách). Př. pole1: 5, 4, 6 pole2: 1, 5, -9 výstup: 4, -1, 15
+16. Napiš funkci, která vezme pole a číslo x a vrátí počet výskytů čísla x v poli.
+17. Napiš funkci, která vezme pole a číslo x a vypíše všechny indexy, na kterých leží v poli číslo x. Př. pole: 1, 8, 1, 14, 15, 1, 2, číslo: 1, výstup: 0, 2, 5
+18. Máme dvě pole o stejné délce n. Napište funkci, která vezme obě pole o stejné délce a zkopíruje první pole do druhého, ale v opačném pořadí.
+19. Napiš funkci, která vrátí největší číslo v poli.
+20. Napiš funkci, která vrátí index největšího čísla v poli.
+21. Napište funkci, která vezme dvě pole o délce n a třetí pole o délce 2*n a vloží za sebou tato dvě pole do toho třetího.
+22. Napiš funkci, která vezme pole o n číslech (znacích) a dvě čísla a vyplní toto pole čísly na přeskáčku: čísla: 2, 8, pole: 2, 8, 2, 8 ...
+23. Napiš funkci, která vezme pole o n číslech (znacích) a dvě čísla a vyplní toto pole do poloviny jedním číslem a druhou polovinu druhým číslem: čísla: 2, 8 pole: 2, 2, 2, 8, 8, 8
+24. Napiš funkci, která vezme dvě pole (zdroj, cíl) a do druhého pole dá jen ty prvky z prvního pole, které jsou kladné. Př. zdroj: 5, -2, 3, -7, cíl: 5, 3. Funkce vrací počet prvků ve druhém poli.
+25. Napiš funkci, která vezme dvě pole (zdroj, cíl) a do druhého pole dá jen ty prvky z prvního pole, které jsou lichá. Př. zdroj: 5, -2, 3, -7, cíl: 5, 3, -7. Funkce vrací počet prvků ve druhém poli.
