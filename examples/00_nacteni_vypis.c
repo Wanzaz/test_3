@@ -11,7 +11,6 @@ void nacteni(int a[], int n) //n = current size of area, a[] = maximal size of a
       printf("Enter %d. element of area: ", i + 1);
       scanf("%d", &a[i]);
     }
-    return 0;
 }
 
 void vypis(int p[], int n)
