@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*0. Funkce pro výpis a načtení n čísel do pole.*/
 
 void nacteni(int a[], int n) //n = current size of area, a[] = maximal size of area
 {
