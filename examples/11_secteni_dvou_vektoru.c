@@ -23,6 +23,14 @@ void vektor(int a[], int b[], int vektory[], int n)
 	}	
 }
 
+void vypis(int p[], int n)
+{
+    for (int i = 0; i < n; i++)
+    {
+        printf("%d ", p[i]);
+    }
+    printf("\n");
+}
 
 int main()
 {
