@@ -19,7 +19,7 @@ int nejvetsi_cislo(int p[], int n)
     for (int i = 0; i < n; i++)
     {
         if (max < p[i])
-        max = p[i];
+            max = p[i];
     }
     return max;
 }
